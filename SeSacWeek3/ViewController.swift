@@ -17,6 +17,12 @@ class ViewController: UIViewController {
         print(4)
         print(5)
         print(6)
+        
+        // xCode와 함께하는 git 공부
+        
+        for _ in 1...10 {
+            print("반복문을 돌려봅시다")
+        }
     }
 
 
